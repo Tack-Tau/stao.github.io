@@ -9,7 +9,7 @@ redirect_from:
 
 I am an On-Tenure-Track Full Professor at the [College of Physics](https://physics.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/), where I lead Tao's Research Group (TRG). My research focuses on computational materials science, combining first-principles calculations, crystal structure prediction, and machine learning to discover and design novel functional materials.
 
-I received my Ph.D. in Applied Physics from Rutgers University--Newark under the supervision of [Dr. Li Zhu](https://sites.google.com/view/zhulab), and completed postdoctoral research at the University of North Carolina at Charlotte with [Dr. Qiang Zhu](https://qzhu2017.github.io/).
+I received my Ph.D. in Applied Physics from Rutgers University--Newark under the supervision of [Dr. Li Zhu](https://zhuli.name/), and completed postdoctoral research at the University of North Carolina at Charlotte with [Dr. Qiang Zhu](https://qzhu2017.github.io/).
 
 ## Research Interests
 
