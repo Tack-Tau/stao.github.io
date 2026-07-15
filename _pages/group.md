@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-TRG is based at the [College of Physics](https://physics.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/), affiliated with the Key Laboratory of Material Simulation Methods & Software of Ministry of Education. We develop computational and machine-learning methods for materials discovery, with a focus on crystal structure prediction, graph neural networks for material property prediction, and generative models for accelerated materials screening.
+TRG is based at the [College of Physics](https://phy.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/), affiliated with the Key Laboratory of Material Simulation Methods & Software of Ministry of Education. We develop computational and machine-learning methods for materials discovery, with a focus on crystal structure prediction, graph neural networks for material property prediction, and generative models for accelerated materials screening.
 
 ---
 
