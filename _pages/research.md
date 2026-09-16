@@ -43,7 +43,7 @@ ReformPy has demonstrated significant improvements in both efficiency and accura
 We developed **ElectrideFlow**, a generative-model-based framework for accelerated discovery of inorganic electrides -- materials where electrons serve as anions. ElectrideFlow combines crystal structure generation with hierarchical screening to efficiently identify candidate electrides from a vast chemical space, drastically reducing the computational cost compared to exhaustive first-principles searches.
 
 **Related publications:**
-- S. Tao and Q. Zhu, *PRX Intelligence* (2026, under revision) [arXiv:2601.21077]
+- S. Tao and Q. Zhu, *PRX Intelligence* **1**, 013016 (2026)
 
 ---
 
